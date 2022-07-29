@@ -359,7 +359,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- CONTACT -->
 ## :phone: Contact
 
-Eldora - eldora@rimm.io
+Eldora - eldoraboo.mby@gmail.com
 
 Project Link: [https://github.com/eldoraboo/auto-labeling](https://github.com/eldoraboo/auto-labeling)
 
