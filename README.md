@@ -75,6 +75,9 @@
 
 doccano can perform different types of labeling tasks with many data formats and spaCy is an industrial-strength NLP tool. Utilising these two, we are able to built an auto labeling pipeline for Named Entity Recognition as well as Test Classification.
 
+![GitHub](https://img.shields.io/github/license/eldoraboo/auto-labeling?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/eldoraboo/auto-labeling?style=for-the-badge) ![GitHub pull requests](https://img.shields.io/github/issues-pr/eldoraboo/auto-labeling?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/eldoraboo/auto-labeling?style=for-the-badge) ![Maintenance](https://img.shields.io/maintenance/yes/2022?style=for-the-badge)
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
