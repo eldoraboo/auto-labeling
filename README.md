@@ -3,9 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ceesuite-data/auto-labeling-pipeline">
+  <a href="https://github.com/eldoraboo/auto-labeling">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-    <img src="images/rimm.png" alt="RIMM" width="80" height="80">
   </a>
 
 <h3 align="center">Auto Labeling Pipeline</h3>
@@ -13,14 +12,14 @@
   <p align="center">
     Built with Doccano, spaCy & FastAPI
     <br />
-    <a href="https://github.com/ceesuite-data/auto-labeling-pipeline"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/eldoraboo/auto-labeling"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ceesuite-data/auto-labeling-pipeline">View Demo</a>
+    <a href="https://github.com/eldoraboo/auto-labeling">View Demo</a>
     ·
-    <a href="https://github.com/ceesuite-data/auto-labeling-pipeline/issues">Report Bug</a>
+    <a href="https://github.com/eldoraboo/auto-labeling/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ceesuite-data/auto-labeling-pipeline/issues">Request Feature</a>
+    <a href="https://github.com/eldoraboo/auto-labeling/issues">Request Feature</a>
   </p>
 </div>
 
@@ -336,7 +335,7 @@ for row in reader:
     - [ ] pet
     - [ ] TaiChi
 
-See the [open issues](https://github.com/ceesuite-data/auto-labeling-pipeline/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/eldoraboo/auto-labeling/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -362,7 +361,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Eldora - eldora@rimm.io
 
-Project Link: [https://github.com/ceesuite-data/auto-labeling-pipeline](https://github.com/ceesuite-data/auto-labeling-pipeline)
+Project Link: [https://github.com/eldoraboo/auto-labeling](https://github.com/eldoraboo/auto-labeling)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
