@@ -51,7 +51,7 @@
       </ul>
     </li>
     <li>
-      <a href="#syringe-few-shot-learning-models">Auto Labeling Setup</a>
+      <a href="#syringe-few-shot-learning-models">Few-Shot Learning Models</a>
       <ul>
         <li><a href="#blue_book-concise-concepts-ner">Concise Concepts (NER)</a></li>
         <li><a href="#dancer-classy-classification-tc">Classy Classification (TC)</a></li>
