@@ -363,6 +363,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## :phone: Contact
 
 [![gmail]][gmail-url] [![linkedin]][linkedin-url] [![website]][website-url]
+
 Project Link: [https://github.com/eldoraboo/auto-labeling](https://github.com/eldoraboo/auto-labeling) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
