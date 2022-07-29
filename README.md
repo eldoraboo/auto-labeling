@@ -362,9 +362,8 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- CONTACT -->
 ## :phone: Contact
 
-Eldora - eldoraboo.mby@gmail.com
-
-Project Link: [https://github.com/eldoraboo/auto-labeling](https://github.com/eldoraboo/auto-labeling)
+[![gmail]][gmail-url] [![linkedin]][linkedin-url] [![website]][website-url]
+Project Link: [https://github.com/eldoraboo/auto-labeling](https://github.com/eldoraboo/auto-labeling) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -401,3 +400,9 @@ Project Link: [https://github.com/eldoraboo/auto-labeling](https://github.com/el
 [gcp-url]: https://cloud.google.com/gcp
 [python]: https://img.shields.io/badge/Python-3.9-14354C?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/downloads/release/python-390/
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/eldoraboo/
+[gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:eldoraboo.mby@gmail.com
+[website]: https://img.shields.io/badge/website-FF69B4?style=for-the-badge&logo=About.me&logoColor=white
+[website-url]: https://eldoraboo.github.io/
