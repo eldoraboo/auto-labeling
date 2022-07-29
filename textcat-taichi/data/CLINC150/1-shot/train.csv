@@ -1,0 +1,150 @@
+does gramercy tavern in new york accept reservations,accept_reservations
+why is there a hold on my american saving bank account,account_blocked
+set my alarm for 6am tomorrow,alarm
+is my application processed for credit card,application_status
+"hey siri, tell me the apr on my disney visa",apr
+i think you are a bot,are_you_a_bot
+what's my savings balance at chase,balance
+how much do i need to pay on my bills,bill_balance
+tell me when my bill will be due,bill_due
+book me a flight from o'hare to las vegas on deltacom,book_flight
+find me a hotel in seattle with great reviews,book_hotel
+subtract 100 from 12,calculator
+tell me what is on my calendar for april 1,calendar
+i need to add my doctor's appointment to my calendar for the first,calendar_update
+what's the calorie content of cheetos,calories
+undo this process,cancel
+please cancel my 7:30 reservation for morton's,cancel_reservation
+could i rent a car out of dallas from april 1-10,car_rental
+why was my card declined for my monthly netflix subscription payment,card_declined
+"if i fly internationally, do brittish airwaiys have carry-on limitations",carry_on
+set to female voice,change_accent
+i want your new name to be joshua,change_ai_name
+can you translate that to french,change_language
+change the speed of your voice to slower,change_speed
+i need to change my name to something else for you to call me,change_user_name
+can my volume be increased,change_volume
+do you know if my reservation for dono is confirmed at 8 pm,confirm_reservation
+how long does it take to make shrimp scampi,cook_time
+could you share what my current credit limit is,credit_limit
+am i allowed to increase my credit limit to $1000,credit_limit_change
+i'd like to know what my credit rating is,credit_score
+list my current gps coordinates,current_location
+my dog ate my credit card and ruined it,damaged_card
+i'd like to know the date tomorrow,date
+what does saffron mean,definition
+do a websearch for direct deposit set up,direct_deposit
+does the bus go to the washington monument,directions
+how long will it take to drive to the kroger in westwood,distance
+tell me all about the creatures you own,do_you_have_pets
+how many dollars can i exchange for 200 pounds,exchange_rate
+please let me know when i need to renew my credit card,expiration_date
+my phone is lost - can you help me find it,find_phone
+what is the projected time frame for the flight to land,flight_status
+please flip a coin i hope its tails,flip_coin
+how long can i keep pizza in the freezer for before it goes bad,food_last
+"help me freeze my bank account, please",freeze_account
+lets go threw some trivia on sports,fun_fact
+how empty is my gas tank,gas
+i want to know the type of gasoline for this car,gas_type
+"it was great to see you again, see ya later!",goodbye
+hey there fellow,greeting
+can i expect chili's to be busy at 4:30,how_busy
+where did you grow up,how_old_are_you
+what are ways to improve my credit,improve_credit_score
+how much money was deposited to my bank account from my employer this month,income
+can i use dark brown sugar instead of brown sugar,ingredient_substitution
+what ingredients do i need to make broccoli cheddar soup,ingredients_list
+what insurance benefits am i getting,insurance
+what do i do for new insurance,insurance_change
+what's the interest rate on my savings,interest_rate
+will i be charged for using my card in japan,international_fees
+what documents to i need to go to egypt,international_visa
+what is the procedure to jump start a car,jump_start
+was my last oil change on wednesday,last_maintenance
+it appears that my luggage has vanished,lost_luggage
+i am going to call the landlord,make_call
+it depends,maybe
+can you tell me a good indian dish to make,meal_suggestion
+what does life mean on a deeper level,meaning_of_life
+how many tablespoons and teaspoons is one cup,measurement_conversion
+what meetings do i have today between noon and one,meeting_schedule
+what is the minimum payment for my credit card bill,min_payment
+my mpg is how much,mpg
+i would like to apply for a bank of america travel rewards credit card,new_card
+how many more weeks until the next holiday,next_holiday
+jump to the next song on this playlist,next_song
+i must say no,no
+"nutrition information for chicken nuggets, please",nutrition_info
+what are the procedures for changing my oil,oil_change_how
+oil changes are typical done how often,oil_change_when
+buy all the things on the shopping list,order
+i need to order more checks for my savings account,order_checks
+what is the status of my recent order,order_status
+i need to pay this month's tv subscription fee,pay_bill
+when will my next paycheck come,payday
+i gotta change my pin number for my debit account,pin_change
+i want to hear my rock playlist,play_music
+will i need a socket converter when i go to france,plug_type
+would you provide the number of vacation days i have,pto_balance
+would you be able to tell me how to make a vacation request,pto_request
+did they approve my day off request,pto_request_status
+can you tell me how many vacation days i've taken,pto_used
+blackberry pie instructions,recipe
+i'd like to redeem my credit card points,redeem_rewards
+what did i put on my list of reminders,reminder
+dont let me forget to do that thing later,reminder_update
+i didn't hear you can you repeat that,repeat
+how long will a new card take to come in the mail,replacement_card_duration
+i think i've been the victim of fraud,report_fraud
+i lost my amex and need to report it,report_lost_card
+reset to original settings,reset_settings
+i think i need to make a reservation for 8 pm at red robin for 3,restaurant_reservation
+can you tell me if eating at outback's any good,restaurant_reviews
+any new restaurants near the mall,restaurant_suggestion
+how would i be able to check my kohls rewards card,rewards_balance
+what do you get if you roll a six sided dice,roll_dice
+how can i rollover my 401k at my new job,rollover_401k
+where do i find the routing number for bank of america,routing
+i need the soonest appointment for an oil change,schedule_maintenance
+do you know how do i schedule a meeting,schedule_meeting
+will you let mary know my location,share_location
+tell me what i put on the shopping list,shopping_list
+please remove ginger ale from my shopping list and add root beer,shopping_list_update
+will you please get my furnace turned on,smart_home
+how do you spell syzygy,spelling
+how much money did i spend at starbucks in the last week,spending_history
+i would like to pair this with my new phone,sync_device
+what will i need to pay in federal taxes,taxes
+tell me something funny about parenting,tell_joke
+text a message to alice,text
+thank you for your time,thank_you
+have you the time,time
+start a timer for two minutes,timer
+time zone in france,timezone
+help me and let me know when i should replace my tires next if i last replaced them on june 2,tire_change
+do i need to fill up my tires,tire_pressure
+tell me the content of my to do list today,todo_list
+add washing dishes to my to do list,todo_list_update
+i need to know what traffic will be like in temp,traffic
+what transactions did i make yesterday at the flea market,transactions
+what is the process to move money from one account to another,transfer
+can you translate cat into russian for me,translate
+are there any travel alerts for ukraine,travel_alert
+alert my bank and let them know that i'm travelling to switzerland,travel_notification
+what are some touristy things to do in boston,travel_suggestion
+schedule me an uber to the mall,uber
+god's plan will be added to my new playlist,update_playlist
+can you tell me what you refer to me as,user_name
+do i need a vaccination to go to china,vaccines
+where do i get the form i need for taxes,w2
+what is the weather going to be like,weather
+what do you like to do for fun,what_are_your_hobbies
+what kinds of questions can you respond to,what_can_i_ask_you
+do you have a preference regarding what i should call you,what_is_your_name
+what's the name of this tune,what_song
+what's your hometown,where_are_you_from
+"switch to whisper mode, please",whisper_mode
+are you employed by someone,who_do_you_work_for
+i'd like to know who made you,who_made_you
+that's the truth,yes

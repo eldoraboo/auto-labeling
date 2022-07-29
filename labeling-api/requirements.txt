@@ -1,0 +1,6 @@
+doccano
+spacy
+uvicorn
+fastapi
+classy_classification
+transformers
